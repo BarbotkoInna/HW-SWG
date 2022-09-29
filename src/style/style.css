@@ -110,6 +110,7 @@ h2 {
 
 
 .logo-holder-white {
+    display: block;
     padding-bottom: 40px;
 }
 
