@@ -112,7 +112,9 @@ h2 {
     margin: 0 auto;
 }
 
-.logo:hover #green-mega {
+.logo:hover #green-mega,
+.logo:hover #green-house,
+.logo:hover #green-phone {
     fill: #3DB370;
     
 }
