@@ -61,11 +61,13 @@ h2 {
     padding-top: 40px;
 }
 
-/* .icon-holder {
+.logo {
     border: 1px solid rgba(21, 101, 216, 0.1);
     border-radius: 16px;
     margin: 10px;
-} */
+    width: 64px;
+    height: 64px;
+}
 
 .pseudo-title {
     font-weight: 400;
